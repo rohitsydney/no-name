@@ -1,2 +1,6 @@
-# angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
+1 can
+Sweetened condensed milk
+2 cup
+Heavy cream
+2 teaspoon
+Pure vanilla extract
